@@ -1,6 +1,3 @@
-import self
-
-
 class Animal:
     def __init__(self, name, alive=True, fed=False):
         self.alive = alive
